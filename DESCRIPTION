@@ -1,0 +1,11 @@
+Package: txt4cs
+Type: Package
+Title: txt4cs: Text as Data para ciências sociais
+Version: 0.1.0
+Author: Davi Moreira
+Maintainer: The package maintainer <davi.moreira@gmail.com>
+Description: Functions and data for txt4cs book project: <https://bookdown.org/davi_moreira/txt4cs/>. 
+License: CC BY-NC-SA 4.0.
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
