@@ -9,7 +9,7 @@
 Brazilian lower chamber: \href{https://www.http://camara.gov.br/}{CD}
 }
 \usage{
-data(impeachment-dilma)
+data("impeachment-dilma")
 }
 \description{
 Data from Brazilian lower chamber web service on President Dilma Rousseff
