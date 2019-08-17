@@ -6,7 +6,7 @@
 #'
 #' @docType data
 #'
-#' @usage data(impeachment-dilma)
+#' @usage data("impeachment-dilma")
 #'
 #' @format An object of class \code{"data.frame"}.
 #'
@@ -15,5 +15,5 @@
 #' @source Brazilian lower chamber: \href{https://www.http://camara.gov.br/}{CD}
 #'
 #' @examples
-#' data(impeachment-dilma)
+#' data("impeachment-dilma")
 "impeachmentDilma"

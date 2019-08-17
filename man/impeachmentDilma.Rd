@@ -17,6 +17,6 @@ impeachment approvement on April 17h, 2016. The \code{data.frame} contains
 the content and meta-data of all recorded speeches (not only the votes).
 }
 \examples{
-data(impeachment-dilma)
+data("impeachment-dilma")
 }
 \keyword{datasets}
