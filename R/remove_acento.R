@@ -1,6 +1,6 @@
 # função remove acento:
 
-remove_acento <- function(txt) {
+remove_accent <- function(txt) {
   # Função desenvolvida por Manoel Galdino <http://lattes.cnpq.br/9398710384205803>
   # e aprimorada por Davi Moreira <http://lattes.cnpq.br/7406586493977047>
   # Recebe: um vetor com strings
