@@ -1,9 +1,9 @@
-\name{remove_acento}
-\alias{remove_acento}
+\name{remove_accent}
+\alias{remove_accent}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
 %%  ~~function to do ... ~~
-Remove string accents.
+Remove accents.
 }
 \description{
 %%  ~~ A concise (1-5 lines) description of what the function does. ~~
@@ -11,7 +11,7 @@ Replace accented characters (ptBRA) by the same character without accent. In the
 the function replaces by " ".
 }
 \usage{
-remove_acento(txt)
+remove_accent(txt)
 }
 %- maybe also 'usage' for other objects documented here.
 \arguments{
@@ -37,10 +37,10 @@ Davi Moreira.
 }
 \examples{
 
-remove_acento("áéíóú")
+remove_accent("áéíóú")
 
 txt <- c("áéíóú", "ÁêÍõúç", "caixa d'água")
-remove_acento(txt)
+remove_accent(txt)
 
 }
 % Add one or more standard keywords, see file 'KEYWORDS' in the
