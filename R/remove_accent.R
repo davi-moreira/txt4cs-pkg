@@ -43,6 +43,8 @@ remove_accent <- function(txt) {
     str_replace_all('Ú', 'U') %>%
     str_replace_all('ç', 'c') %>%
     str_replace_all('Ç', 'C') %>%
+    str_replace_all('ñ', 'n') %>%
+    str_replace_all('Ñ', 'N') %>%
     str_replace_all("\'", " ") %>%
     str_trim
 }
